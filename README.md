@@ -10,9 +10,6 @@ This project is a full-stack web application that allows users to visually creat
 
 The application enables users to build a Retrieval-Augmented Generation (RAG) pipeline by connecting components on a canvas, uploading a PDF as a knowledge base, and asking questions about it through a chat interface.
 
-## 🎥 Video Demo
-
-[Link to your 2-3 minute video demo on Loom or YouTube]
 
 ## ✨ Key Features
 
